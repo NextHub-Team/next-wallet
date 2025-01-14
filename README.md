@@ -1,5 +1,5 @@
 
-![Alt text](public/assets/banner.svg)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/9113740/201498864-2a900c64-d88f-4ed4-b5cf-770bcb57e1f5.png">
